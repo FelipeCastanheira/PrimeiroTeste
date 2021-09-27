@@ -2,6 +2,7 @@ O que eu vou aprender na Trybe:
 
 - Unix
 - Bash
+- Soft skills
 - Git
 - HTML
 - CSS
